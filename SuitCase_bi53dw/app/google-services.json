@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043453338614",
+    "project_id": "shlin-suitcase",
+    "storage_bucket": "shlin-suitcase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043453338614:android:e19fdb5c82c1af31b95dd7",
+        "android_client_info": {
+          "package_name": "com.bi52ex.nathan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvRGvA3_exDE2mxAp_nHF6qW6Op5qVvGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
